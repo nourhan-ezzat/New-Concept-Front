@@ -1,0 +1,19 @@
+.conEdit{
+    top: 50%;
+    left: 50%;
+    margin: -12% 0 0 -36%;
+    border: 2px solid #B4C9D3;
+    border-radius: 10px;
+}  
+.btnEdit{
+    font-size: 20px;
+    background-color: #FDBF5A;
+    cursor: pointer;
+}
+.btnEdit:hover,
+.btn-primary:not(:disabled):not(.disabled):active
+{background-color: #FDBF5A;}
+.linkEdit, .linkEdit:hover{color: #FDBF5A;}
+.linkEdit{font-size: 22px;}
+.textEdit{color: #6e747a !important;}
+.imgEdit{background-color: #E9ECEF;}
